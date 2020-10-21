@@ -1,0 +1,10 @@
+version: 3.8
+services:
+    nginx:
+    php-fpm:
+    database:
+    database-ui:
+#   reverse-proxy:
+networks:
+
+volumes:
